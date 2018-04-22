@@ -46,8 +46,11 @@ let headers = { 'Authorization': this.$auth.getToken() }
 this.$http.get(`${window.basePath}/auth/user`, {headers})
 ```
 
+### Donations
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/IvnAqn)
+
 ## Captures
 
-![login](https://lh6.googleusercontent.com/L7AkTrmAftb1oKtad2y9URs0dh2W75Lqw_rBygwEiIvNdztChvxS87kzqbGrwCOOVJM9tRoYrObB4ds1RgOZ=w2213-h895-rw)
+![login](https://image.ibb.co/nbhLdc/bt_0.png)
 
-![dashboard](https://lh3.googleusercontent.com/TdT-5xUDWrGYc5u61FZfiqfqfI4zXwYuF8bPd8lWasJb5gUIHGZMKYlliihcnb0bhsvE8CB_eIdpUUY9igJh=w2213-h895-rw)
+![dashboard](https://image.ibb.co/keCaBx/bt_1.png)
